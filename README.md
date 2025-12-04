@@ -116,7 +116,7 @@ jupyter notebook Customer_Segmentation_Analysis_Using_AI.ipynb
 
 ## 📄 Report & Presentation
 
-Full thesis-style report available as: report.docx(https://github.com/Yogeshwaran0529/AI-Driven-Customer-Segmentation-in-Marketing-Analytics-/blob/main/report.docx)
+Full thesis-style report available as: ![report](report.docx)
 
 Contains visualizations, methodology, insights, and cluster personas.
 
